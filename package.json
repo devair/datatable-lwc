@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/devair.datatable-fork-ks5dsy1j",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "wcd-cli serve sR7Pc0aCi29Axf1lYwsE --open"
+  }
+}
